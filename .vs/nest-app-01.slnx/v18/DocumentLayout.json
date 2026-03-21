@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Codes\\NestJS\\nest01\\nest-app-01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Codes\\NestJS\\nest01\\nest-app-01\\src\\auth\\auth.controller.ts||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\auth\\auth.controller.ts||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Codes\\NestJS\\nest01\\nest-app-01\\src\\auth\\auth.controller.spec.ts||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\auth\\auth.controller.spec.ts||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "auth.controller.ts",
+              "DocumentMoniker": "D:\\Codes\\NestJS\\nest01\\nest-app-01\\src\\auth\\auth.controller.ts",
+              "RelativeDocumentMoniker": "src\\auth\\auth.controller.ts",
+              "ToolTip": "D:\\Codes\\NestJS\\nest01\\nest-app-01\\src\\auth\\auth.controller.ts",
+              "RelativeToolTip": "src\\auth\\auth.controller.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-03-21T03:37:11.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "auth.controller.spec.ts",
+              "DocumentMoniker": "D:\\Codes\\NestJS\\nest01\\nest-app-01\\src\\auth\\auth.controller.spec.ts",
+              "RelativeDocumentMoniker": "src\\auth\\auth.controller.spec.ts",
+              "ToolTip": "D:\\Codes\\NestJS\\nest01\\nest-app-01\\src\\auth\\auth.controller.spec.ts",
+              "RelativeToolTip": "src\\auth\\auth.controller.spec.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-03-21T03:37:11.112Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
